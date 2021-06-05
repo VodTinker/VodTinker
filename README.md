@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @VodTinker
+- 👀 I’m interested in Coding and Cryptos
+- 🌱 I’m currently learning Python by myself
+- 💞️ I’m looking to collaborate on proyects for new learners
