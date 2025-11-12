@@ -43,6 +43,9 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-FF0D6D?style=for-the-badge&logo=astro&logoColor=white)
 
 ### 🚀 DevOps & Tools
 
@@ -52,6 +55,10 @@
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![VMware ESXi](https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
 
 ### 🔐 Infrastructure & Networking
 
@@ -60,12 +67,40 @@
 ![IPv6](https://img.shields.io/badge/IPv6-4285F4?style=for-the-badge&logo=ipv6&logoColor=white)
 ![DHCP](https://img.shields.io/badge/DHCP-FF6C37?style=for-the-badge&logo=networkprotocol&logoColor=white)
 
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-1A1A1A?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-2C2C2C?style=for-the-badge&logo=nmap&logoColor=white)
+
+
 ### ☁️ Cloud & More
 
 ![Digital Ocean](https://img.shields.io/badge/Digital%20Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cryptocurrency](https://img.shields.io/badge/Crypto-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Anime](https://img.shields.io/badge/Anime-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Monero](https://img.shields.io/badge/Monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-00FFA3?style=for-the-badge&logo=solana&logoColor=black)
+
+![AniList](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white)
+![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)
+
 
 </div>
 
@@ -89,25 +124,30 @@
 
 ## 🎮 When I'm Not Breaking Servers
 
-<div align="center">
-
-<img align="left" alt="Gaming" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-</div>
+<img align="left"
+     src="https://media1.tenor.com/m/q2B4LtxDqvoAAAAC/konata-lucky-star.gif"
+     alt="Konata Lucky Star Gaming"
+     width="300"
+     style="margin-right: 24px; margin-bottom: 20px;">
 
 ### 🕹️ Gaming
-- 🌟 **Honkai Star Rail** - Gacha never ends (anime-style adventures in space!)
-- 🧟 **Left 4 Dead 2** - Zombie slaying
-- 🦋 **Silk Song** - Waiting patiently (soon™)
+- 🌟 **Honkai Star Rail** — Gacha never ends (anime-style adventures in space!)
+- ⛏️ **Minecraft** — Modded survival (Mekanism)
+- 🦋 **Silk Song** — GIT GUD!!
 
 ### 📺 Entertainment  
-- 🍜 **Anime** - Crunchyroll subscriber; favorites include mecha epics like Gundam and isekai twists like Re:Zero
-- 🎬 **YouTube** - Tech & gaming content, plus anime reviews
+- 🍜 **Anime** — Crunchyroll subscriber; favorites include Attack on Titan or Puella Magi Madoka Magica
+- 🎬 **YouTube** — Tech & gaming content, plus anime reviews
 
 ### ⚙️ Hobbies
-- 🖥️ **Home Lab** - Building & optimizing servers (mecha-inspired setups)
-- ☕ **Coffee** - Fuel for debugging sessions
-- 🔐 **Security** - Learning pentesting & hardening (with a dash of anime flair 🌀, like hacking in Ghost in the Shell)
+- 🖥️ **Home Lab** — Building & optimizing servers 
+- ☕ **Energy Drinks** — Fuel for debugging sessions
+- 🔐 **Security** — Learning pentesting & hardening 
+
+<br clear="left">
+
+<br clear="left">
+
 
 <br clear="left"/>
 
