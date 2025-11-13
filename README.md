@@ -164,7 +164,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-VodTinker-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VodTinker)
-[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-handle) 
+[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/vodtinker) 
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielfonov71@vodtinker.dev)
 
 <br>
