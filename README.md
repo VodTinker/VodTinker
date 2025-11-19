@@ -21,7 +21,8 @@
 
 ## 🎓 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding Status" width="400" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=3FB950&center=false&vCenter=true&multiline=true&repeat=true&width=400&height=200&lines=_%3E+sudo+systemctl+status;[+OK+]+All+systems+operational;_;_%3E+ping+-c+4+lab.local;64+bytes+from+lab.local;_;_%3E+docker+ps+-a;Status%3A+Running..."/>
+
 
 - **Name:** Daniel Fonov
 - **Located in:** Gijón, Asturias, España 🇪🇸
