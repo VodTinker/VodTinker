@@ -1,8 +1,19 @@
+<!-- HEADER GLITCH -->
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=400&size=50&duration=3000&pause=1000&color=3FB950&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=SYSTEM+BREACH+DETECTED...;USER%3A+DANIEL+FONOV+%5BSysAdmin%5D;INIT+PROTOCOL%3A+ARCH_LINUX)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Daniel%20Fonov&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<!-- Visitor Badge -->
+![Profile Views](https://komarev.com/ghpvc/?username=VodTinker&color=3fb950&style=for-the-badge&label=SYSTEM+ACCESS)
+[![GitHub followers](https://img.shields.io/github/followers/VodTinker?style=for-the-badge&color=f778ba&labelColor=0d1117)](https://github.com/VodTinker)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=1793D1&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Linux+Sysadmin+Student+%F0%9F%90%A7;Cybersecurity+%26+Cloud+Enthusiast+%F0%9F%94%90;I+Use+Arch+BTW+%F0%9F%92%BB;Building+Servers+%26+Breaking+Things+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A;Anime+Otaku+Side+Hustle+%F0%9F%98%8D)](https://git.io/typing-svg)
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
+<tr>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
